@@ -1,3 +1,7 @@
 <?php
+echo "<pre>";
+print_r($variables['page']['logo']);
 
-//echo ;
+//echo render($variables['page']['logo']);
+
+
